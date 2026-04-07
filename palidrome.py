@@ -1,7 +1,4 @@
 #write a code to check given word is palindrome or not
-word = "mam"
-word1 = word[::-1]
-if word == word1:
-  print("Palindrome")
-else:
-  print("Not a palindrome")
+word = "madam"
+is_palindrome==word==word[::-1]
+print("Palindrome")
